@@ -1,7 +1,7 @@
 # Data-Analytics
 
 
-## Polticos en Twitter
+## Políticos en Twitter
 Análisis de las principales cuentas de políticos en Twitter. Los datos son de [politicosentwitter](https://oderedes.shinyapps.io/politicosentwitter/)
 
 Algunas de las visualizaciones obtenidas (ver notebook para ver la totalidad del trabajo):
